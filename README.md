@@ -1,2 +1,3 @@
-# HTML-Front-End-Tip-Calculator-
-HTML front-end tip calculator with CSS and Java Script
+Tip Calculator
+
+Repository for front end tip calculator project written in HTML, CSS and Java Script
